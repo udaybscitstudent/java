@@ -1,6 +1,4 @@
 //write a progam in java to print sum of even and odd digits.
-package while_loop;
-
 import java.util.Scanner;
 
 public class C {

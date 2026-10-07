@@ -1,6 +1,4 @@
 //write a program in java to input any number after that count of digits.
-package while_loop;
-
 import java.util.Scanner;
 
 public class B {

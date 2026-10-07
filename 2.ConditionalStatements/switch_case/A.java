@@ -1,5 +1,4 @@
 //write a program in java to take month number of the year and display name of the month.
-package switch_case;
 import java.util.Scanner;
 public class A {
     public static void main(String[] args){

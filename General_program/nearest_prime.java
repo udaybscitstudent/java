@@ -1,3 +1,4 @@
+package General_program;
 /*write a program to take a number and print that number
  if the number is prime otherwise print the nearest greater prime number.
  */

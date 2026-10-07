@@ -1,4 +1,3 @@
-package switch_case;
 import java.util.Scanner;
 public class B {
     public static void main(String args[]){

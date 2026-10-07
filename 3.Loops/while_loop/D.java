@@ -1,6 +1,4 @@
 //wrtie a progarm in java to enter any number and reverse it.
-package while_loop;
-
 import java.util.Scanner;
 
 class D{

@@ -1,6 +1,4 @@
 //write a program in java to input any number and check the number is composite or not
-package while_loop;
-
 import java.util.Scanner;
 
 public class F {

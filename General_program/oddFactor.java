@@ -1,3 +1,4 @@
+package General_program;
 import java.util.Scanner;
 public class oddFactor {
     public static void main(String args[]){

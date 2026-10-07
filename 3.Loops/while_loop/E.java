@@ -1,5 +1,4 @@
 //wrtie a progarm in java to enter any number and check that number is palandrome or not.
-package while_loop;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
 //write a progarm in java to enter any number and print sum of all digits of entered number.
-package while_loop;
-
 import java.util.Scanner;
 
 public class A {

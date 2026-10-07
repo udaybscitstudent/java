@@ -14,6 +14,7 @@ It is created to learn Java step by step, from fundamental concepts to basic pro
  
 ## 📁 Repository Structure
 
+```text
 Java-Basics/
 │
 ├── Basics/

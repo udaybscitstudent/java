@@ -1,6 +1,4 @@
 //write a program in java to enter two number after that check twin prime number;
-package while_loop;
-
 import java.util.Scanner;
 
 public class G {
