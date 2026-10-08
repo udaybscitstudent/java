@@ -47,7 +47,7 @@ This repository contains a collection of commonly used **programming problems an
 
 * [Prime Number](General_program/Prime.java)
 * [Palindrome Number](General_program/palindrome.java)
-* [Reverse Number](reverse.java)
+* [Reverse Number](C_Loops/while_loop/reverse_the_number.java)
 * [Perfect Number](General_program/perfect.java)
 * [Armstrong Number](armstrong.java)
 * [HCF / GCD](General_program/HCF.java)
