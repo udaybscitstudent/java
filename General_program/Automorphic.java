@@ -15,7 +15,7 @@ public class Automorphic {
         int len = n.length();                    
         int num = Integer.parseInt(n);           
         int sn = num*num;                        
-        int ld = sn%(int)Math.pow(10,len);     
+        int ld = sn%(int)Math.pow(10,len);      //taking last digits of square
         if(num==ld){
             System.out.println(n+" is an Automorphic number");
         }
