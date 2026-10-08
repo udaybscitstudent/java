@@ -1,7 +1,8 @@
 //write a program to take a number and check the number is neon no or not.
+/*what is Neon number:- a neon number is square of some of digit equal to that number is called neon number */
 package General_program;
 import java.util.Scanner;
-public class nean_number {
+public class neon_number {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any number");
