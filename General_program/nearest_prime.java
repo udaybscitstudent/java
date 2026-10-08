@@ -22,8 +22,7 @@ public class nearest_prime {
             }else{
                 n++;
             }
-            c=0;
-        
+            c=0; 
         }
         System.out.println("nearest prime number="+n);
         obj.close();

@@ -14,5 +14,6 @@ public class binary_to_decimal {
             i++;
         }
         System.out.println("decimal number="+(int)d);
+        obj.close();
     }
 }
