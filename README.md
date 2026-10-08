@@ -32,7 +32,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Even and Odd Number](even_odd.java)
 * [Greatest of Three Numbers](greatest.java)
 * [Leap Year](leap_year.java)
-* [Factorial](factorial.java)
+* [Factorial](General_program/factorial.java)
 * [Multiplication Table](multiplication_table.java)
 * [Sum of Digits](sum_of_digits.java)
 * [Swap Two Numbers](swap.java)
@@ -45,15 +45,15 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🟡 Intermediate
 
-* [Prime Number](Prime.java)
-* [Palindrome Number](palindrome.java)
+* [Prime Number](General_program/Prime.java)
+* [Palindrome Number](General_program/palindrome.java)
 * [Reverse Number](reverse.java)
-* [Perfect Number](perfect.java)
+* [Perfect Number](General_program/perfect.java)
 * [Armstrong Number](armstrong.java)
-* [HCF / GCD](HCF.java)
-* [LCM](LCM.java)
-* [Decimal to Binary](Decimal_to_binary.java)
-* [Binary to Decimal](binary_to_decimal.java)
+* [HCF / GCD](General_program/HCF.java)
+* [LCM](General_program/LCM.java)
+* [Decimal to Binary](General_program/Decimal_to_binary.java)
+* [Binary to Decimal](General_program/binary_to_decimal.java)
 * [Fibonacci Series](fibonacci.java)
 * [Prime Numbers in a Range](prime_range.java)
 * [Strong Number](strong.java)
@@ -62,7 +62,7 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🔴 Difficult
 
-* [Amicable Number](amicable.java)
+* [Amicable Number](General_program/amicable.java)
 * [Prime Factorization](prime_factorization.java)
 * [Number to Words](number_to_words.java)
 * [Pascal's Triangle](pascal_triangle.java)
