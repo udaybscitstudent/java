@@ -1,6 +1,6 @@
 /*Write a program to enter any number after that check the number is even or odd */
 
-package B_ConditionalStatements.if_else;
+package B_ConditionalStatements.easy;
 import java.util.Scanner;
 public class even_odd {
     public static void main(String args[]){
