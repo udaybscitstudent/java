@@ -1,7 +1,7 @@
 //write a program in java to input any number and check the number is composite or not
 import java.util.Scanner;
 
-public class F {
+public class check_composite {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any number");

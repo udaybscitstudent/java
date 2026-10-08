@@ -1,7 +1,8 @@
-//wrtie a progarm in java to enter any number and reverse it.
+//wrtie a progarm in java to enter any number and check that number is palindrome or not.
+
 import java.util.Scanner;
 
-class D{
+class check_palindrome{
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any nummber");
@@ -13,7 +14,12 @@ class D{
             rev = rev*10+r;
             n=n/10;
         }
-        System.out.println("Reverse of "+num+" = "+rev);
+        if(num==rev){
+            System.out.println("Palindrome number");
+        }
+        else{
+            System.out.println("Not palindrome number");
+        }
         obj.close();
     }
 }

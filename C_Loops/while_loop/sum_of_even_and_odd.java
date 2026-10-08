@@ -1,7 +1,7 @@
 //write a progam in java to print sum of even and odd digits.
 import java.util.Scanner;
 
-public class C {
+public class sum_of_even_and_odd {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any number");

@@ -1,7 +1,7 @@
 //write a program in java to enter two number after that check twin prime number;
 import java.util.Scanner;
 
-public class G {
+public class twinPrime {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter two number");

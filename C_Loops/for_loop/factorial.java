@@ -1,17 +1,15 @@
-//write a program in java to input any number after that count of digits.
+package C_Loops.for_loop;
 import java.util.Scanner;
-
-public class B {
+public class factorial {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any number");
         int n = obj.nextInt();
-        int c =0;
-        while(n!=0){
-            c = c+1;
-            n = n/10;
+        int f=1;
+        for(int i=1;i<=n;i++){
+            f=f*i;
         }
-        System.out.println("Count of digit="+c);
+        System.out.println("Factorial of "+n+" is "+f);
         obj.close();
     }
 }
