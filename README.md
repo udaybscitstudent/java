@@ -29,14 +29,14 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🟢 Easy
 
-* [Even and Odd Number](B_conditionalStatements/easy/even_odd.java)
-* [Greatest of Three Numbers](B_conditionalStatements/easy/greatest_of_three_number.java)
-* [Leap Year](B_conditionalStatements/easy/leap.java)
+* [Even and Odd Number](B_ConditionalStatements/easy/even_odd.java)
+* [Greatest of Three Numbers](B_ConditionalStatements/easy/greatest_of_three_number.java)
+* [Leap Year](B_ConditionalStatements/easy/leap.java)
 * [Factorial](General_program/factorial.java)
 * [Multiplication Table](C_Loops/for_loop/table.java)
 * [Sum of Digits](C_Loops/while_loop/sum_of_digit.java)
 * [Swap Two Numbers](B_conditionalStatements/easy/swap.java)
-* [Positive, Negative or Zero](B_conditionalStatements/easy/check_p_n_z.java)
+* [Positive, Negative or Zero](B_ConditionalStatements/easy/check_p_n_z.java)
 * [Count Digits](C_Loops/while_loop/count_digit.java)
 * [Largest Digit](C_Loops/while_loop/largest_digit.java)
 * [Smallest Digit](C_Loops/while_loop/smallest_digit.java)
