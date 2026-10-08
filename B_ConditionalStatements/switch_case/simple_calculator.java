@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class B {
+public class simple_calculator {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter two number");

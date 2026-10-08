@@ -38,10 +38,10 @@ This repository contains a collection of commonly used **programming problems an
 * [Swap Two Numbers](B_conditionalStatements/easy/swap.java)
 * [Positive, Negative or Zero](B_conditionalStatements/easy/check_p_n_z.java)
 * [Count Digits](C_Loops/while_loop/count_digit.java)
-* [Largest Digit](largest_digit.java)
-* [Smallest Digit](smallest_digit.java)
-* [Power of a Number](power.java)
-* [Simple Calculator](calculator.java)
+* [Largest Digit](C_Loops/while_loop/largest_digit.java)
+* [Smallest Digit](C_Loops/while_loop/smallest_digit.java)
+* [Power of a Number](B_ConditionalStatements/easy/power_of_num.java)
+* [Simple Calculator](B_ConditionalStatements/switch_case/simple_calculator.java)
 
 ### 🟡 Intermediate
 
