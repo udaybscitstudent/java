@@ -54,11 +54,12 @@ This repository contains a collection of commonly used **programming problems an
 * [LCM](General_program/LCM.java)
 * [Decimal to Binary](General_program/Decimal_to_binary.java)
 * [Binary to Decimal](General_program/binary_to_decimal.java)
-* [Fibonacci Series](fibonacci.java)
-* [Prime Numbers in a Range](prime_range.java)
-* [Strong Number](strong.java)
-* [Automorphic Number](automorphic.java)
-* [Harshad Number](harshad.java)
+* [Fibonacci Series](C_Loops/for_loop/faboncii.java)
+* [Prime Numbers in a Range](C_Loops/for_loop/prime_in_range.java)
+* [Strong Number](C_Loops/while_loop/strong.java)
+* [Neon Number](General_program/neon_number.java)
+* [Automorphic Number](General_program/Automorphic.java)
+* [Harshad Number](General_program/harshad.java)
 
 ### 🔴 Difficult
 
