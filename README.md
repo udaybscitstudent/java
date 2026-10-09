@@ -59,6 +59,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Strong Number](C_Loops/while_loop/strong.java)
 * [Neon Number](General_program/neon_number.java)
 * [Automorphic Number](General_program/Automorphic.java)
+* [desarium number](General_program/desarium.java)
 * [Harshad Number](General_program/harshad.java)
 
 ### 🔴 Difficult
