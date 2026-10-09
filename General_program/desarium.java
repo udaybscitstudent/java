@@ -15,7 +15,7 @@ Explanation: 81 + 12 = 8 + 1 = 9, which is not equal to n. Therefore, 81 is not 
 package General_program;
 import java.util.Scanner;
 public class desarium {
-    public static void main(String args){
+    public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter any number");
         String n = obj.nextLine();
