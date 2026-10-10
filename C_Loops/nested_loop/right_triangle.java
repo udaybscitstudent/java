@@ -14,3 +14,13 @@ public class right_triangle {
         }
     }
 }
+
+/*output of the program
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+*/

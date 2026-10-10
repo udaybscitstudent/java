@@ -10,3 +10,14 @@ class square_pattern{
          }
     }
 }
+
+
+/*output of the program 
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+*/
