@@ -89,9 +89,9 @@ This repository contains a collection of commonly used **programming problems an
 * [Square Star Pattern](C_Loops/nested_loop/square_pattern.java)
 * [Right Triangle Star Pattern](C_Loops/nested_loop/right_triangle.java)
 * [Inverted Right Triangle](C_Loops/nested_loop/inverted_right_angle_triangle.java)
-* [Number Triangle](number_triangle.java)
-* [Increasing Number Pattern](increasing_number.java)
-* [Decreasing Number Pattern](decreasing_number.java)
+* [Number Triangle](C_Loops/nested_loop/number_triangle.java)
+* [Increasing Number Pattern](C_Loops/nested_loop/increasing_number_pattern.java)
+* [Decreasing Number Pattern](C_Loops/nested_loop/decreasing_number_pattern.java)
 
 ### 🟡 Intermediate Patterns
 
