@@ -71,7 +71,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Matrix Addition](matrix_addition.java)
 * [Matrix Multiplication](matrix_multiplication.java)
 * [Transpose of Matrix](matrix_transpose.java)
-* [Spiral Matrix](spiral_matrix.java)
+* [Spiral Matrix](spiral_matrix.java) 
 * [Array Rotation](array_rotation.java)
 * [Second Largest Element](second_largest.java)
 * [Duplicate Elements in Array](duplicate_elements.java)
