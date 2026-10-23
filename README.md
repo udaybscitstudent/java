@@ -96,7 +96,7 @@ This repository contains a collection of commonly used **programming problems an
 ### 🟡 Intermediate Patterns
 
 * [Pyramid Star Pattern](C_Loops/nested_loop/pyramid.java)
-* [Inverted Pyramid](inverted_pyramid.java)
+* [Inverted Pyramid](C_Loops/nested_loop/inverted_pyramid.java)
 * [Hollow Square](hollow_square.java)
 * [Hollow Triangle](hollow_triangle.java)
 * [Number Pyramid](number_pyramid.java)
