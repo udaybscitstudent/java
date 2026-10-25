@@ -99,7 +99,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Inverted Pyramid](C_Loops/nested_loop/inverted_pyramid.java)
 * [Hollow Square](C_Loops/nested_loop/hollow_square.java)
 * [Hollow Triangle](C_Loops/nested_loop/hollow_triangle.java)
-* [Number Pyramid](number_pyramid.java)
+* [Number Pyramid](C_Loops/nested_loop/number_pyramid.java)
 * [Floyd's Triangle](floyd_triangle.java)
 * [0-1 Triangle](zero_one_triangle.java)
 * [Alphabet Triangle](alphabet_triangle.java)
