@@ -102,7 +102,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Number Pyramid](C_Loops/nested_loop/number_pyramid.java)
 * [Floyd's Triangle](C_Loops/nested_loop/floyds_triangle.java)
 * [0-1 Triangle](C_Loops/nested_loop/Zero_one_triangle.java)
-* [Alphabet Triangle](alphabet_triangle.java)
+* [Alphabet Triangle](C_Loops/nested_loop/alphabet_triangle.java)
 
 ### 🔴 Difficult Patterns
 
