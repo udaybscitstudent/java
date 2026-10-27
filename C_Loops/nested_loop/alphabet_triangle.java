@@ -9,8 +9,7 @@ public class alphabet_triangle {
             }
             System.out.println();
         }
-    }
-    
+    }    
 }
 
 /* output of the program
