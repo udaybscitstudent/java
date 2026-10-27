@@ -86,5 +86,22 @@ Ans:- A constructor is a special method in a class that is used to initialize ob
     Constructors are called automatically when an object is created, and they can be used to set initial values for the object's attributes or perform any other necessary setup.   
 
 destructor
-Ans:- A destructor is a special method in a class that is used to clean up resources when
+Ans:- A destructor is a special method in a class that is used to clean up resources when an object of that class is destroyed. 
+    In Java, destructors are not explicitly defined like in some other programming languages. Instead, Java uses a garbage collector to automatically manage memory and clean up objects that are no longer in use. 
+    However, Java does provide a finalize() method that can be overridden in a class to perform cleanup operations before an object is garbage collected.
+
+overloading
+Ans:- Overloading is a feature in object-oriented programming that allows a class to have multiple methods with the same name but different parameters. 
+    This allows for more flexibility in method calls and can make code easier to read and understand. 
+    Overloading can be applied to constructors, methods, and operators.
+
+overriding
+Ans:- Overriding is a feature in object-oriented programming that allows a subclass to provide a specific implementation of a method that is already defined in its superclass. 
+    When a subclass overrides a method, it provides its own version of the method that will be called instead of the superclass's version. 
+    This allows for polymorphism and enables objects of different classes to be treated as if they were of the same class.
+
+interface
+Ans:- An interface is a reference type in Java that defines a set of abstract methods that a class must implement. It is a way to achieve abstraction and multiple inheritance in Java. 
+    An interface can also contain constants, default methods, static methods, and nested types. 
+    A class that implements an interface must provide implementations for all of its abstract methods.
 */
