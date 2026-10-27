@@ -19,3 +19,15 @@ public class hollow_pyramid {
         }
     }
 }
+
+/*
+output of the program
+
+    *
+   * *
+  *   *
+ *     *
+*********
+
+
+*/
