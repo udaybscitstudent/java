@@ -219,7 +219,7 @@ public class number_to_words {
                 }
             }
             System.out.println();
-        // obj.close();
         }
+        obj.close();
     }
 }
