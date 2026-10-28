@@ -64,8 +64,8 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🔴 Difficult
 
-* [Amicable Number](General_program/amicable.java)
-* [Prime Factorization](prime_factorization.java)
+* [Amicable Number](General_program/difficult_program/amicable.java)
+* [Prime Factorization](General_program/difficult_program/prime_factorization.java)
 * [Number to Words](number_to_words.java)
 * [Pascal's Triangle](pascal_triangle.java)
 * [Matrix Addition](matrix_addition.java)
