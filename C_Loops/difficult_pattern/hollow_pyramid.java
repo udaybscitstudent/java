@@ -1,4 +1,4 @@
-package C_Loops.difficult_pattern;
+// package C_Loops.difficult_pattern;
 
 public class hollow_pyramid {
     public static void main(String args[]){
