@@ -6,12 +6,91 @@ public class number_to_words {
         Scanner obj = new Scanner(System.in);
         int n=1;
         while(n!=-1){
-            System.out.println("\nEnter Below 10,00000[-1 for exit]");
+            System.out.println("\nEnter any number[-1 for exit]");
             n = obj.nextInt();
             int digit = String.valueOf(Math.abs((long)n)).length();
             while(n!=0){
+                // seventh digit
+                if(digit==7){
+                    int r = n/100000;
+                    n=n%100000;
+                    digit = 5;
+                    int l=r;
+                    while(l!=0){
+                        if(r>=20){
+                            int d = r/10;
+                            r = r%10;
+                            switch(d){
+                                case 1:
+                                    System.out.print("Ten ");break;
+                                case 2:
+                                    System.out.print("Twenty ");break;
+                                case 3:
+                                    System.out.print("Thirty ");break;
+                                case 4:
+                                    System.out.print("Forty ");break;
+                                case 5:
+                                    System.out.print("Fifty ");break;
+                                case 6:
+                                    System.out.print("Sixty ");break;
+                                case 7:
+                                    System.out.print("Seventy ");break;
+                                case 8:
+                                    System.out.print("Eight ");break;
+                                case 9: 
+                                    System.out.print("Ninty ");break;
+                            }
+                        }
+                        else{
+                            l=0;
+                            switch(r){
+                                case 19:
+                                    System.out.print("Nineteen Lakh ");break;
+                                case 18:
+                                    System.out.print("Eighteen Lakh ");break;
+                                case 17:
+                                    System.out.print("Seventeen Lakh ");break;
+                                case 16:
+                                    System.out.print("Sixteen Lakh ");break;
+                                case 15:
+                                    System.out.print("Fifteen Lakh ");break;
+                                case 14:
+                                    System.out.print("Fourteen Lakh ");break;
+                                case 13:
+                                    System.out.print("Thirteen Lakh ");break;
+                                case 12:
+                                    System.out.print("Twelve Lakh ");break;
+                                case 11:
+                                    System.out.print("Eleven Lakh ");break;
+                                case 10:
+                                    System.out.print("Ten Lakh ");break;
+                                case 9:
+                                    System.out.print("Nine Lakh ");break;
+                                case 8:
+                                    System.out.print("Eight Lakh ");break;
+                                case 7:
+                                    System.out.print("Seven Lakh ");break;
+                                case 6:
+                                    System.out.print("Six Lakh ");break;
+                                case 5:
+                                    System.out.print("Five Lakh ");break;
+                                case 4:
+                                    System.out.print("Four Lakh ");break;
+                                case 3:
+                                    System.out.print("Three Lakh ");break;
+                                case 2:
+                                    System.out.print("Two Lakh ");break;
+                                case 1:
+                                    System.out.print("One Lakh ");break;
+                                case 0:
+                                    System.out.print("Lakh ");
+                            }
+                        }
+                    }
+                }
+
                 // working for sixth digit
-                if(digit==6){
+                else if(digit==6){
                     int r = n/100000;
                     n=n%100000;
                     digit=5;
@@ -237,10 +316,13 @@ public class number_to_words {
                             System.out.print("Two ");break;
                         case 1:
                             System.out.print("One ");break;
+                        case 0:{
+                            System.out.print("Zero ");break;
+                        }
                     }
                 }
                 else{
-                    System.out.println("\nPlease Enter Till Six Digit Number");
+                    System.out.println("\nPlease Enter Between 1 to 1. Crore");
                     break;
                 }
             }
