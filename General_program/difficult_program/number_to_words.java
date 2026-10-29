@@ -6,12 +6,37 @@ public class number_to_words {
         Scanner obj = new Scanner(System.in);
         int n=1;
         while(n!=-1){
-            System.out.println("\nEnter till five digit number[-1 for exit]");
+            System.out.println("\nEnter Below 10,00000[-1 for exit]");
             n = obj.nextInt();
             int digit = String.valueOf(Math.abs((long)n)).length();
             while(n!=0){
+                if(digit==6){
+                    int r = n/100000;
+                    n=n%100000;
+                    digit=5;
+                    switch(r){
+                        case 1:
+                            System.out.print("One Lakh ");break;
+                        case 2:
+                            System.out.print("Two Lakh ");break;
+                        case 3:
+                            System.out.print("Three Lakh ");break;
+                        case 4:
+                            System.out.print("Four Lakh ");break;
+                        case 5:
+                            System.out.print("Five Lakh ");break;
+                        case 6:
+                            System.out.print("Six Lakh ");break;
+                        case 7:
+                            System.out.print("Seven Lakh ");break;
+                        case 8:
+                            System.out.print("Eight Lakh ");break;
+                        case 9:
+                            System.out.print("Nine Lakh ");break;
+                    }
+                }
                 // woring for fifth digit number
-                if(digit==5){
+                else if(digit==5){
                     int r = n/1000;
                     n=n%1000;
                     digit =3;
@@ -214,7 +239,7 @@ public class number_to_words {
                     }
                 }
                 else{
-                    System.out.println("\nPlease Enter Till Five Digit Number");
+                    System.out.println("\nPlease Enter Till Six Digit Number");
                     break;
                 }
             }
