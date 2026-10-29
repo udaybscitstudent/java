@@ -10,6 +10,7 @@ public class number_to_words {
             n = obj.nextInt();
             int digit = String.valueOf(Math.abs((long)n)).length();
             while(n!=0){
+                // working for sixth digit
                 if(digit==6){
                     int r = n/100000;
                     n=n%100000;
