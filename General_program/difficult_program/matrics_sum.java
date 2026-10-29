@@ -39,6 +39,7 @@ public class matrics_sum {
             }
             System.out.println();
         }
+        obj.close();
     }
 }
 
