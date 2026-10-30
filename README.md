@@ -69,7 +69,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Number to Words](General_program/difficult_program/number_to_words.java)
 * [Pascal's Triangle](General_program/difficult_program/pascal_triangle.java)
 * [Matrix Addition](General_program/difficult_program/matrics_sum.java)
-* [Matrix Multiplication](matrix_multiplication.java)
+* [Matrix Multiplication](General_program/difficult_program/matrics_product.java)
 * [Transpose of Matrix](matrix_transpose.java)
 * [Spiral Matrix](spiral_matrix.java) 
 * [Array Rotation](array_rotation.java)
