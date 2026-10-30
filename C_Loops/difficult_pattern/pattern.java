@@ -32,7 +32,16 @@ public class pattern {
                     System.out.print("|");
                 }
                 else if(i==n){
-                    System.out.print("_");
+                    if((k==(2*n)/3 && i==n) || (k==n+n/2-1 && i==n))
+                    {
+                        System.out.print("|");
+                    }
+                    else if((k>=(2*n)/3 && i==n) && (k<= n+n/2-1 && i==n)){
+                        System.out.print(" ");
+                    }
+                    else{
+                        System.out.print("_");
+                    }
                 }
                 else{
                     if((k==(2*n)/3 && i>=n/2) || (k==n+n/2-1 && i>=n/2))
@@ -49,5 +58,6 @@ public class pattern {
             }
             System.out.println();
         }
+        System.out.println("\n");
     }
 }
