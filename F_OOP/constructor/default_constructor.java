@@ -1,7 +1,5 @@
 package F_OOP.constructor;
 
-
-
 class default_constructor {
     public static void main(String[] args) {
         show obj = new show();
@@ -16,7 +14,9 @@ class show{
     int a ;
     float b;
     String c;
-
+    show(){
+        //  definition
+    }
     void display(){
         System.out.println("Default value of int a = " + a);
         System.out.println("Default value of float b = " + b);
