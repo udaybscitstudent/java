@@ -15,6 +15,7 @@ public class constructor_overloading {
         sum s2 = new sum(a,b,c);
         System.out.println("Sum of "+a+" and "+b+" = "+s1.display());
         System.out.println("Sum of "+a+" , "+b+" and "+c+" = "+s2.show());
+        System.out.println(s.show());
 
         obj.close();
     }
