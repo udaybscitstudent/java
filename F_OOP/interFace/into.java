@@ -76,7 +76,6 @@ class class1 implements interface1 , interface2, interface3{
 }
 
 // home work program //
-1. write a program to compute area & perimeter of square and rectable by using multiple inheriface
-
+1. write a program to compute area & perimeter of square and rectangle by using multiple inheriface
 
 */
