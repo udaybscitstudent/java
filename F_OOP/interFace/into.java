@@ -38,8 +38,8 @@ class class1 implements name_interface{
     }
 }
 
-// write a program to compute area and circumferance of circle by using single interface.(code written in the same program)[program written in ,cicle_single_interface.java]
-// write a program to compute volume of sphare or volume of cuboid by using constructor overloading.(code written in the sphare.java program)
+// write a program to compute area and circumferance of circle by using single interface.[code written in the 'circle_single_interface.java' program]
+// write a program to compute volume of sphare or volume of cuboid by using constructor overloading.[code written in the sphare_single_interface.java program]
 
 
 
