@@ -29,19 +29,19 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🟢 Easy
 
-* [Even and Odd Number](B_ConditionalStatements/easy/even_odd.java)
-* [Greatest of Three Numbers](B_ConditionalStatements/easy/greatest_of_three_number.java)
-* [Leap Year](B_ConditionalStatements/easy/leap.java)
-* [Factorial](General_program/factorial.java)
-* [Multiplication Table](C_Loops/for_loop/table.java)
-* [Sum of Digits](C_Loops/while_loop/sum_of_digit.java)
-* [Swap Two Numbers](B_conditionalStatements/easy/swap.java)
-* [Positive, Negative or Zero](B_ConditionalStatements/easy/check_p_n_z.java)
-* [Count Digits](C_Loops/while_loop/count_digit.java)
-* [Largest Digit](C_Loops/while_loop/largest_digit.java)
-* [Smallest Digit](C_Loops/while_loop/smallest_digit.java)
-* [Power of a Number](B_ConditionalStatements/easy/power_of_num.java)
-* [Simple Calculator](B_ConditionalStatements/switch_case/simple_calculator.java)
+* [Even and Odd Number](A_Basic_Programs/Easy_program/even_odd.java)
+* [Greatest of Three Numbers](A_Basic_Programs/Easy_program/greatest_of_three_number.java)
+* [Leap Year](A_Basic_Programs/Easy_program/leap.java)
+* [Factorial](A_Basic_Programs/Easy_program/factorial.java)
+* [Multiplication Table](A_Basic_Programs/Easy_program/table.java)
+* [Sum of Digits](A_Basic_Programs/Easy_program/sum_of_digit.java)
+* [Swap Two Numbers](A_Basic_Programs/Easy_program/swap.java)
+* [Positive, Negative or Zero](A_Basic_Programs/Easy_program/check_p_n_z.java)
+* [Count Digits](A_Basic_Programs/Easy_program/count_digit.java)
+* [Largest Digit](A_Basic_Programs/Easy_program/largest_digit.java)
+* [Smallest Digit](A_Basic_Programs/Easy_program/smallest_digit.java)
+* [Power of a Number](A_Basic_Programs/Easy_program/power_of_num.java)
+* [Simple Calculator](A_Basic_Programs/Easy_program/simple_calculator.java)
 
 ### 🟡 Intermediate
 
