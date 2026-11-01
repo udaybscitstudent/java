@@ -6,16 +6,16 @@ This repository contains a collection of commonly used **programming problems an
 ## 📂 Repository Structure
 
 ```text
-Java/
-├── Basics/
-├── ConditionalStatements/
-├── Loops/
-├── Arrays/
-├── Strings/
-├── OOP/
-├── ExceptionHandling/
-├── Collections/
-└── Projects/
+JAVA/
+│
+├── A_Basic_Programs/
+├── B_Pattern_Programs/
+├── C_Array/
+├── D_String/
+├── E_Function/
+├── F_OOP/
+├── G_Collections/ 
+└── GENERAL_PROGRAM
 
 ```
 
