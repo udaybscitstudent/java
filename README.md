@@ -86,32 +86,32 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🟢 Easy Patterns
 
-* [Square Star Pattern](C_Loops/nested_loop/square_pattern.java)
-* [Right Triangle Star Pattern](C_Loops/nested_loop/right_triangle.java)
-* [Inverted Right Triangle](C_Loops/nested_loop/inverted_right_angle_triangle.java)
-* [Number Triangle](C_Loops/nested_loop/number_triangle.java)
-* [Increasing Number Pattern](C_Loops/nested_loop/increasing_number_pattern.java)
-* [Decreasing Number Pattern](C_Loops/nested_loop/decreasing_number_pattern.java)
+* [Square Star Pattern](B_Pattern_Programs/Easy_patterns/square_pattern.java)
+* [Right Triangle Star Pattern](B_Pattern_Programs/Easy_patterns/right_triangle.java)
+* [Inverted Right Triangle](B_Pattern_Programs/Easy_patterns/inverted_right_angle_triangle.java)
+* [Number Triangle](B_Pattern_Programs/Easy_patterns/number_triangle.java)
+* [Increasing Number Pattern](B_Pattern_Programs/Easy_patterns/increasing_number_pattern.java)
+* [Decreasing Number Pattern](B_Pattern_Programs/Easy_patterns/decreasing_number_pattern.java)
 
 ### 🟡 Intermediate Patterns
 
-* [Pyramid Star Pattern](C_Loops/nested_loop/pyramid.java)
-* [Inverted Pyramid](C_Loops/nested_loop/inverted_pyramid.java)
-* [Hollow Square](C_Loops/nested_loop/hollow_square.java)
-* [Hollow Triangle](C_Loops/nested_loop/hollow_triangle.java)
-* [Number Pyramid](C_Loops/nested_loop/number_pyramid.java)
-* [Floyd's Triangle](C_Loops/nested_loop/floyds_triangle.java)
-* [0-1 Triangle](C_Loops/nested_loop/Zero_one_triangle.java)
-* [Alphabet Triangle](C_Loops/nested_loop/alphabet_triangle.java)
+* [Pyramid Star Pattern](B_Pattern_Programs/Intermediate_patterns/pyramid.java)
+* [Inverted Pyramid](B_Pattern_Programs/Intermediate_patterns/inverted_pyramid.java)
+* [Hollow Square](B_Pattern_Programs/Intermediate_patterns/hollow_square.java)
+* [Hollow Triangle](B_Pattern_Programs/Intermediate_patterns/hollow_triangle.java)
+* [Number Pyramid](B_Pattern_Programs/Intermediate_patterns/number_pyramid.java)
+* [Floyd's Triangle](B_Pattern_Programs/Intermediate_patterns/floyds_triangle.java)
+* [0-1 Triangle](B_Pattern_Programs/Intermediate_patterns/Zero_one_triangle.java)
+* [Alphabet Triangle](B_Pattern_Programs/Intermediate_patterns/alphabet_triangle.java)
 
 ### 🔴 Difficult Patterns
 
-* [Diamond Star Pattern](C_Loops/difficult_pattern/diamond.java)
-* [Hollow Diamond](C_Loops/difficult_pattern/hollow_diamond.java)
-* [Butterfly Pattern](C_Loops/difficult_pattern/butterfly.java)
-* [Home Pattern](C_Loops/difficult_pattern/pattern.java)
-* [Hollow Pyramid](C_Loops/difficult_pattern/hollow_pyramid.java)
-* [Pascal's Triangle](pascal_triangle.java)
+* [Diamond Star Pattern](B_Pattern_Programs/Difficult_patterns/diamond.java)
+* [Hollow Diamond](B_Pattern_Programs/Difficult_patterns/hollow_diamond.java)
+* [Butterfly Pattern](B_Pattern_Programs/Difficult_patterns/butterfly.java)
+* [Home Pattern](B_Pattern_Programs/Difficult_patterns/pattern.java)
+* [Hollow Pyramid](B_Pattern_Programs/Difficult_patterns/hollow_pyramid.java)
+* [Pascal's Triangle]()
 * [Number Diamond](number_diamond.java)
 * [Alphabet Diamond](alphabet_diamond.java)
 * [Concentric Number Pattern](concentric_pattern.java)
