@@ -1,6 +1,6 @@
-package B_Pattern_Programs.C_Loops.nested_loop;
+package B_Pattern_Programs.Intermediate_patterns;  //it is not compulsory
 
-public class hollow_triangle {
+public class hollow_triangle {  
     public static void main(String args[]){
         int i , j , k , n=5;
         for(i=1;i<=n;i++){

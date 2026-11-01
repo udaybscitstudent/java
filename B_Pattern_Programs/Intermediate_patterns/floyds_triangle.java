@@ -1,4 +1,4 @@
-package B_Pattern_Programs.C_Loops.nested_loop;
+package B_Pattern_Programs.Intermediate_patterns;  //it is not compulsory
 public class floyds_triangle {
     public static void main(String[] args){
         int i , j, k=1,n=5;
