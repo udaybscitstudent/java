@@ -56,8 +56,8 @@ class ClassName implements InterfaceName {
 
 | S.No. | Program Name                   | Description                                                                                      |
 | ----- | ------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 1     | `circle_single_interface.java` | Calculate the area and circumference of a circle using a single interface.                       |
-| 2     | `sphare_single_interface.java` | Calculate the volume of a sphere or cuboid using constructor overloading and a single interface. |
+| 1     | [`circle_single_interface.java`](circle_single_interface.java) | Calculate the area and circumference of a circle using a single interface.                       |
+| 2     | [`sphare_single_interface.java`](sphare_single_interface.java) | Calculate the volume of a sphere or cuboid using constructor overloading and a single interface. |
 
 ---
 
@@ -102,7 +102,7 @@ class ClassName implements Interface1, Interface2, Interface3 {
 
 | S.No. | Program Name                               | Description                                                                           |
 | ----- | ------------------------------------------ | ------------------------------------------------------------------------------------- |
-| 1     | `square_rectangle_multiple_interface.java` | Calculate the area and perimeter of a square and rectangle using multiple interfaces. |
+| 1     | [`multi_inter.java`](multi_inter.java) | Calculate the area and perimeter of a square and rectangle using multiple interfaces. |
 
 ---
 
@@ -147,18 +147,6 @@ After completing this topic, you will understand:
 
 ---
 
-## 📝 Practice / Homework
-
-**Question:** Write a Java program to calculate the area and perimeter of a square and rectangle using multiple interfaces.
-
-**Concepts to Use:**
-
-* Interface
-* Multiple Interface Implementation
-* Method Overriding
-* Classes and Objects
-
----
 
 ## 👨‍💻 Author
 
