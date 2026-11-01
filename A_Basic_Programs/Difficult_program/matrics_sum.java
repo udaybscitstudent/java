@@ -1,4 +1,4 @@
-package General_program.difficult_program;
+package A_Basic_Programs.Difficult_program;
 
 import java.util.Scanner;
 public class matrics_sum {

@@ -1,4 +1,4 @@
-package General_program.difficult_program;
+package A_Basic_Programs.Difficult_program;
 
 public class matrics_product {
     public static void main(String args[]){

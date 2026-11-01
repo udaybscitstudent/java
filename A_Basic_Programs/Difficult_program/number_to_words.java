@@ -1,4 +1,4 @@
-package General_program.difficult_program;  //it is not compulsory , it is the folder name of the program
+package A_Basic_Programs.Difficult_program;  //it is not compulsory , it is the folder name of the program
 
 import java.util.Scanner;
 public class number_to_words {
