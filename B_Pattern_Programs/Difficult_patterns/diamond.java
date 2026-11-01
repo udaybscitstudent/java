@@ -1,5 +1,5 @@
-package B_Pattern_Programs.C_Loops.difficult_pattern;
-// package C_Loops.difficult_pattern;
+package B_Pattern_Programs.Difficult_patterns;  //it is not compulsory
+
 class diamond{
     public static void main(String[] args) {
         int i , j , k , n=5;

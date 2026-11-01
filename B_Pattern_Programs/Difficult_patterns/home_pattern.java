@@ -1,6 +1,6 @@
-package B_Pattern_Programs.C_Loops.difficult_pattern;
-// package C_Loops.difficult_pattern;
-public class pattern {
+package B_Pattern_Programs.Difficult_patterns;  //it is not compulsory
+
+public class home_pattern {
     public static void main(String args[]){
         int i , j ,k , n=10;
         for(i=1;i<=n;i++){
@@ -62,3 +62,34 @@ public class pattern {
         System.out.println("\n");
     }
 }
+
+
+
+/*
+// output of the program
+
+for n=10
+
+         ^
+        / \
+       /   \
+      /     \
+     /       \
+    /         \
+   /           \
+  /             \
+ /               \
+/_________________\
+|                 |
+|                 |
+|                 |
+|     _______     |
+|    |       |    |
+|    |       |    |
+|    |       |    |
+|    |       |    |
+|    |       |    |
+|____|       |____|
+
+
+*/
