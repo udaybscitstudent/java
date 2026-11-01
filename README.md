@@ -64,12 +64,12 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🔴 Difficult
 
-* [Amicable Number](General_program/difficult_program/amicable.java)
-* [Prime Factorization](General_program/difficult_program/prime_factorization.java)
-* [Number to Words](General_program/difficult_program/number_to_words.java)
-* [Pascal's Triangle](General_program/difficult_program/pascal_triangle.java)
-* [Matrix Addition](General_program/difficult_program/matrics_sum.java)
-* [Matrix Multiplication](General_program/difficult_program/matrics_product.java)
+* [Amicable Number](A_Basic_Programs/Difficult_program/amicable.java)
+* [Prime Factorization](A_Basic_Programs/Difficult_program/prime_factorization.java)
+* [Number to Words](A_Basic_Programs/Difficult_program/number_to_words.java)
+* [Pascal's Triangle](A_Basic_Programs/Difficult_program/pascal_triangle.java)
+* [Matrix Addition](A_Basic_Programs/Difficult_program/matrics_sum.java)
+* [Matrix Multiplication](A_Basic_Programs/Difficult_program/matrics_product.java)
 * [Transpose of Matrix](matrix_transpose.java)
 * [Spiral Matrix](spiral_matrix.java) 
 * [Array Rotation](array_rotation.java)
