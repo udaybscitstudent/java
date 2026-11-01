@@ -109,7 +109,7 @@ This repository contains a collection of commonly used **programming problems an
 * [Diamond Star Pattern](B_Pattern_Programs/Difficult_patterns/diamond.java)
 * [Hollow Diamond](B_Pattern_Programs/Difficult_patterns/hollow_diamond.java)
 * [Butterfly Pattern](B_Pattern_Programs/Difficult_patterns/butterfly.java)
-* [Home Pattern](B_Pattern_Programs/Difficult_patterns/pattern.java)
+* [Home Pattern](B_Pattern_Programs/Difficult_patterns/home_pattern.java)
 * [Hollow Pyramid](B_Pattern_Programs/Difficult_patterns/hollow_pyramid.java)
 * [Pascal's Triangle]()
 * [Number Diamond](number_diamond.java)
