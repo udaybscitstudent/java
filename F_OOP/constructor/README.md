@@ -152,6 +152,56 @@ When a class contains more than one constructor with different parameter lists, 
 
 It allows objects to be initialized in different ways.
 
+## prgoram: - write a program to add two number or three number using constructor overloading
+
+```java
+ import java.util.Scanner;
+public class constructor_overloading {
+    public static void main(String args[]){
+        Scanner obj = new Scanner(System.in);
+        System.out.println("Enter three numbers:");
+        int a = obj.nextInt();
+        int b = obj.nextInt();
+        int c = obj.nextInt();
+
+        sum s = new sum();
+        sum s1 = new sum(a,b);
+        sum s2 = new sum(a,b,c);
+        System.out.println("Sum of "+a+" and "+b+" = "+s1.display());
+        System.out.println("Sum of "+a+" , "+b+" and "+c+" = "+s2.show());
+        System.out.println(s.show());
+
+        obj.close();
+    }
+}
+class sum{
+    int a , b, c;
+    sum(){
+        a = 0;
+        b = 0;
+        c = 0;
+    }
+    sum(int a , int b){
+        this.a = a;
+        this.b = b;
+    }
+    sum(int a, int b, int c){
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+    int display(){
+        return a+b;
+    }
+    
+    int show(){
+        return a+b+c;
+    }
+
+}
+
+```
+
 ---
 
 ## 🔴 7. Constructor Chaining
@@ -203,7 +253,7 @@ F_OOP/
     │
     ├── intro.java
     ├── default_constructor.java
-    ├── zero_argument_constructor.java
+    ├── no_argument.java
     ├── parameterized_constructor.java
     ├── constructor_overloading.java
     ├── constructor_chaining.java
