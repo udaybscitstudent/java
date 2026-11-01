@@ -11,99 +11,13 @@
 </div>
 
 ---
+# ⭐ Java Pattern Programs
 
-## 📌 About This Section
+A collection of Java pattern programs designed to improve logical thinking and problem-solving skills using loops and nested loops.
 
-This folder contains different pattern-printing programs implemented using Java.
-
-Pattern programming is an excellent way to improve logical thinking and understand how nested loops work.
-
-These programs help you practice rows, columns, spaces, numbers, characters, and different combinations of nested loops.
-
----
-
-## 📚 Topics Covered
-
-### 1. ⭐ Star Patterns
-
-Star patterns are created using asterisks (`*`) with different arrangements.
-
-| No. | Pattern Name                   |
-| --- | ------------------------------ |
-| 1   | Square Pattern                 |
-| 2   | Right-Angled Triangle          |
-| 3   | Inverted Right-Angled Triangle |
-| 4   | Pyramid Pattern                |
-| 5   | Inverted Pyramid               |
-| 6   | Hollow Square                  |
-| 7   | Hollow Triangle                |
-| 8   | Diamond Pattern                |
-| 9   | Butterfly Pattern              |
-| 10  | Hollow Pyramid                 |
-
-### 2. 🔢 Number Patterns
-
-Number patterns use numerical values arranged in different shapes.
-
-| No. | Pattern Name               |
-| --- | -------------------------- |
-| 1   | Number Triangle            |
-| 2   | Inverted Number Triangle   |
-| 3   | Number Pyramid             |
-| 4   | Floyd's Triangle           |
-| 5   | 0-1 Triangle               |
-| 6   | Pascal's Triangle          |
-| 7   | Palindromic Number Pyramid |
-| 8   | Number Diamond             |
-
-### 3. 🔤 Alphabet Patterns
-
-Alphabet patterns use letters from A to Z to create different arrangements.
-
-| No. | Pattern Name                |
-| --- | --------------------------- |
-| 1   | Alphabet Triangle           |
-| 2   | Inverted Alphabet Triangle  |
-| 3   | Alphabet Pyramid            |
-| 4   | Repeated Alphabet Pattern   |
-| 5   | Continuous Alphabet Pattern |
-
-### 4. 🔷 Advanced Patterns
-
-Some interesting patterns that require more logical thinking and nested loop conditions.
-
-| No. | Pattern Name      |
-| --- | ----------------- |
-| 1   | Hollow Diamond    |
-| 2   | Butterfly Pattern |
-| 3   | Hollow Pyramid    |
-| 4   | Rhombus Pattern   |
-| 5   | Sandglass Pattern |
-| 6   | Zigzag Pattern    |
-
----
-
-## 💻 Sample Pattern Programs
+## 🟢 Easy Patterns
 
 ### 1. Square Star Pattern
-
-**Java Code:**
-
-```java
-public class SquarePattern {
-    public static void main(String[] args) {
-
-        for (int i = 1; i <= 5; i++) {
-            for (int j = 1; j <= 5; j++) {
-                System.out.print("* ");
-            }
-            System.out.println();
-        }
-    }
-}
-```
-
-**Output:**
 
 ```text
 * * * * *
@@ -113,9 +27,9 @@ public class SquarePattern {
 * * * * *
 ```
 
-### 2. Right-Angled Triangle
+[View Source Code](Easy_patterns/square_pattern.java)
 
-**Output:**
+### 2. Right Triangle Star Pattern
 
 ```text
 *
@@ -125,9 +39,21 @@ public class SquarePattern {
 * * * * *
 ```
 
-### 3. Number Triangle
+[View Source Code](Easy_patterns/right_triangle.java)
 
-**Output:**
+### 3. Inverted Right Triangle
+
+```text
+* * * * *
+* * * *
+* * *
+* *
+*
+```
+
+[View Source Code](Easy_patterns/right_triangle.java)
+
+### 4. Number Triangle
 
 ```text
 1
@@ -137,9 +63,9 @@ public class SquarePattern {
 1 2 3 4 5
 ```
 
-### 4. Floyd's Triangle
+[View Source Code](Easy_patterns/number_triangle.java)
 
-**Output:**
+### 5. Increasing Number Pattern
 
 ```text
 1
@@ -149,103 +75,283 @@ public class SquarePattern {
 11 12 13 14 15
 ```
 
----
+[View Source Code](Easy_patterns/increasing_number_pattern.java)
 
-## 📂 Suggested Project Structure
+### 6. Decreasing Number Pattern
 
 ```text
-B_Pattern_Programs/
-│
-├── README.md
-│
-├── 01_Star_Patterns/
-│   ├── square.java
-│   ├── right_triangle.java
-│   ├── inverted_triangle.java
-│   ├── pyramid.java
-│   ├── hollow_square.java
-│   ├── hollow_triangle.java
-│   ├── diamond.java
-│   └── butterfly.java
-│
-├── 02_Number_Patterns/
-│   ├── number_triangle.java
-│   ├── floyd_triangle.java
-│   ├── zero_one_triangle.java
-│   ├── pascal_triangle.java
-│   └── number_pyramid.java
-│
-├── 03_Alphabet_Patterns/
-│   ├── alphabet_triangle.java
-│   ├── alphabet_pyramid.java
-│   └── repeated_alphabet.java
-│
-└── 04_Advanced_Patterns/
-    ├── hollow_diamond.java
-    ├── sandglass.java
-    ├── rhombus.java
-    └── zigzag.java
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
 ```
 
-*Note: This is a suggested structure. You can modify it according to your actual Java files.*
+[View Source Code](Easy_patterns/decreasing_number_pattern.java)
 
 ---
 
-## 🧠 Java Concepts Practiced
+## 🟡 Intermediate Patterns
 
-* Nested For Loops
-* While Loops
-* If-Else Conditions
-* Rows and Columns
-* Space Management
-* Increment and Decrement
-* Pattern Logic
-* Number Manipulation
-* Character Manipulation
-* Logical Thinking
+### 1. Pyramid Star Pattern
 
----
-
-## 🚀 How to Run
-
-**Step 1:** Install Java JDK.
-
-**Step 2:** Open the Java file in VS Code.
-
-**Step 3:** Open the terminal and compile the program.
-
-```bash
-javac square.java
+```text
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
 ```
 
-**Step 4:** Run the program.
+[View Source Code](Intermediate_patterns/pyramid.java)
 
-```bash
-java square
+### 2. Inverted Pyramid
+
+```text
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
 ```
 
+[View Source Code](Intermediate_patterns/inverted_pyramid.java)
+
+### 3. Hollow Square
+
+```text
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+```
+
+[View Source Code](Intermediate_patterns/hollow_square.java)
+
+### 4. Hollow Triangle
+
+```text
+*
+* *
+*   *
+*     *
+* * * * *
+```
+
+[View Source Code](Intermediate_patterns/hollow_triangle.java)
+
+### 5. Number Pyramid
+
+```text
+        1
+      1 2 1
+    1 2 3 2 1
+  1 2 3 4 3 2 1
+1 2 3 4 5 4 3 2 1
+```
+
+[View Source Code](Intermediate_patterns/number_pyramid.java)
+
+### 6. Floyd's Triangle
+
+```text
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
+
+[View Source Code](Intermediate_patterns/floyds_triangle.java)
+
+### 7. 0-1 Triangle
+
+```text
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+```
+
+[View Source Code](Intermediate_patterns/Zero_one_triangle.java)
+
+### 8. Alphabet Triangle
+
+```text
+A
+A B
+A B C
+A B C D
+A B C D E
+```
+
+[View Source Code](Intermediate_patterns/alphabet_triangle.java)
+
 ---
 
-## 🎯 Learning Objectives
+## 🔴 Difficult Patterns
 
-By practicing these patterns, you will learn how to:
+### 1. Diamond Star Pattern
 
-* Understand nested loop execution.
-* Control rows and columns.
-* Manage spaces and symbols.
-* Develop strong logical thinking.
-* Solve beginner and intermediate programming problems.
-* Prepare for coding interviews and technical assessments.
+```text
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+```
+
+[View Source Code](Difficult_patterns/diamond.java)
+
+### 2. Hollow Diamond
+
+```text
+        *
+      *   *
+    *       *
+  *           *
+    *       *
+      *   *
+        *
+```
+
+[View Source Code](Difficult_patterns/hollow_diamond.java)
+
+### 3. Butterfly Pattern
+
+```text
+*             *
+* *         * *
+* * *     * * *
+* * * * * * * *
+* * *     * * *
+* *         * *
+*             *
+```
+
+[View Source Code](Difficult_patterns/butterfly.java)
+
+### 4. Home Pattern
+
+```text
+        *
+      * * *
+    * * * * *
+  *           *
+  *           *
+  * * * * * * *
+```
+
+[View Source Code](Difficult_patterns/home_pattern.java)
+
+### 5. Hollow Pyramid
+
+```text
+        *
+      *   *
+    *       *
+  *           *
+* * * * * * * * *
+```
+
+[View Source Code](Difficult_patterns/hollow_pyramid.java)
+
+### 6. Pascal's Triangle
+
+```text
+        1
+      1   1
+    1   2   1
+  1   3   3   1
+1   4   6   4   1
+```
+
+[View Source Code](Difficult_patterns)
+
+### 7. Number Diamond
+
+```text
+        1
+      1 2 1
+    1 2 3 2 1
+      1 2 1
+        1
+```
+
+[View Source Code](number_diamond.java)
+
+### 8. Alphabet Diamond
+
+```text
+        A
+      A B A
+    A B C B A
+      A B A
+        A
+```
+
+[View Source Code](alphabet_diamond.java)
+
+### 9. Concentric Number Pattern
+
+```text
+5 5 5 5 5 5 5 5 5
+5 4 4 4 4 4 4 4 5
+5 4 3 3 3 3 3 4 5
+5 4 3 2 2 2 3 4 5
+5 4 3 2 1 2 3 4 5
+5 4 3 2 2 2 3 4 5
+5 4 3 3 3 3 3 4 5
+5 4 4 4 4 4 4 4 5
+5 5 5 5 5 5 5 5 5
+```
+
+[View Source Code](concentric_pattern.java)
+
+### 10. Spiral Pattern
+
+```text
+1   2   3   4   5
+16  17  18  19  6
+15  24  25  20  7
+14  23  22  21  8
+13  12  11  10  9
+```
+
+[View Source Code](spiral_pattern.java)
 
 ---
+
+## 🎯 Concepts Covered
+
+* Nested Loops
+* Conditional Statements
+* Star Patterns
+* Number Patterns
+* Alphabet Patterns
+* Matrix-Based Patterns
+* Logical Thinking and Problem Solving
 
 ## 🛠️ Technologies Used
 
-* **Language:** Java
-* **IDE:** Visual Studio Code
-* **JDK:** Java Development Kit
-* **Version Control:** Git & GitHub
+* Java
+* VS Code
+* JDK
 
+## 👨‍💻 Author
+
+**Uday Kumar**
+
+* GitHub: [@udaybscitstudent](https://github.com/udaybscitstudent)
+* Portfolio: [My Portfolio](https://udaybscitstudent.github.io/myinfo/)
+
+---
+
+⭐ If you find this repository helpful, don't forget to give it a star!
 ---
 
 <div align="center">
