@@ -45,22 +45,22 @@ This repository contains a collection of commonly used **programming problems an
 
 ### 🟡 Intermediate
 
-* [Prime Number](General_program/Prime.java)
-* [Palindrome Number](General_program/palindrome.java)
-* [Reverse Number](C_Loops/while_loop/reverse_the_number.java)
-* [Perfect Number](General_program/perfect.java)
-* [Armstrong Number](armstrong.java)
-* [HCF / GCD](General_program/HCF.java)
-* [LCM](General_program/LCM.java)
-* [Decimal to Binary](General_program/Decimal_to_binary.java)
-* [Binary to Decimal](General_program/binary_to_decimal.java)
-* [Fibonacci Series](C_Loops/for_loop/faboncii.java)
-* [Prime Numbers in a Range](C_Loops/for_loop/prime_in_range.java)
-* [Strong Number](C_Loops/while_loop/strong.java)
-* [Neon Number](General_program/neon_number.java)
-* [Automorphic Number](General_program/Automorphic.java)
-* [desarium number](General_program/desarium.java)
-* [Harshad Number](General_program/harshad.java)
+* [Prime Number](A_Basic_Programs/Intermediate_program/Prime.java)
+* [Palindrome Number](A_Basic_Programs/Intermediate_program/palindrome.java)
+* [Reverse Number](A_Basic_Programs/Intermediate_program/reverse_the_number.java)
+* [Perfect Number](A_Basic_Programs/Intermediate_program/perfect.java)
+* [Armstrong Number](A_Basic_Programs/Intermediate_program/armstrong.java)
+* [HCF / GCD](A_Basic_Programs/Intermediate_program/HCF.java)
+* [LCM](A_Basic_Programs/Intermediate_program/LCM.java)
+* [Decimal to Binary](A_Basic_Programs/Intermediate_program/Decimal_to_binary.java)
+* [Binary to Decimal](A_Basic_Programs/Intermediate_program/binary_to_decimal.java)
+* [Fibonacci Series](A_Basic_Programs/Intermediate_program/faboncii.java)
+* [Prime Numbers in a Range](A_Basic_Programs/Intermediate_program/prime_in_range.java)
+* [Strong Number](A_Basic_Programs/Intermediate_program/strong.java)
+* [Neon Number](A_Basic_Programs/Intermediate_program/neon_number.java)
+* [Automorphic Number](A_Basic_Programs/Intermediate_program/Automorphic.java)
+* [desarium number](A_Basic_Programs/Intermediate_program/desarium.java)
+* [Harshad Number](A_Basic_Programs/Intermediate_program/harshad.java)
 
 ### 🔴 Difficult
 
