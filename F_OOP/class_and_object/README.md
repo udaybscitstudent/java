@@ -180,7 +180,6 @@ F_OOP/
 │
 └── class_object/
     │
-    ├── intro.java
     ├── student.java
     ├── employee.java
     ├── multiple_object.java
