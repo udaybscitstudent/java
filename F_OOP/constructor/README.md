@@ -152,7 +152,7 @@ When a class contains more than one constructor with different parameter lists, 
 
 It allows objects to be initialized in different ways.
 
-## prgoram: - write a program to add two number or three number using constructor overloading
+### prgoram: - write a program to add two number or three number using constructor overloading
 
 ```java
  import java.util.Scanner;
