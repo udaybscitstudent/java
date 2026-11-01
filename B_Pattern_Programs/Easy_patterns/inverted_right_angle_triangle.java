@@ -1,4 +1,4 @@
-package B_Pattern_Programs.C_Loops.nested_loop;
+package B_Pattern_Programs.Easy_patterns;
 
 public class inverted_right_angle_triangle {
     public static void main(String args[]){

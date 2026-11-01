@@ -1,4 +1,4 @@
-package B_Pattern_Programs.C_Loops.nested_loop;
+package B_Pattern_Programs.Easy_patterns;
 
 public class decreasing_number_pattern {
     public static void main(String args[]){
