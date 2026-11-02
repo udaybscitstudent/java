@@ -91,10 +91,10 @@ Float = 20.5
 
 <h2 align="center">📝 Homework / Practice Programs</h2>
 
-| No. | Practice Questions                                                                                       |
-| :-: | -------------------------------------------------------------------------------------------------------- |
-|  01 | Write a Java program to perform addition and subtraction of two numbers using compile-time polymorphism. |
-|  02 | Write a Java program to calculate the area of a circle using compile-time polymorphism.                  |
+| No. | Practice Questions                                                                                       | Program |
+| :-: | -------------------------------------------------------------------------------------------------------- | ------- |
+| 01  | Write a Java program to perform addition and subtraction of two numbers using compile-time polymorphism. | [add_sum.java](add_sum.java) |
+| 02  | Write a Java program to calculate the area of a circle using compile-time polymorphism.                  | [circle.java](circle.java) |
 
 ---
 
