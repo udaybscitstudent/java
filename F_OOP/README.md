@@ -262,7 +262,7 @@ After completing this repository, I aim to:
 | Class & Object | 🟢 Learning |
 | Constructor    | 🟢 Learning |
 | Inheritance    | 🟡 Upcoming |
-| Polymorphism   | 🟡 Upcoming |
+| Polymorphism   | 🟡 Learning |
 | Encapsulation  | 🟡 Upcoming |
 | Abstraction    | 🟡 Upcoming |
 | Interface      | 🟢 Learning |
