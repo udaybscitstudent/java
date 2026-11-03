@@ -69,5 +69,29 @@ class PNB extends bank{
         double interest = (amount * 4.7)/100;
         System.out.println("Interest of PNB="+interest);
     }
-
 }
+
+/*
+run-time polymorphism: - 
+A type of polymorphism which change the behavior of the object at run time and display the different properties 
+according to the data operation known as run time polymorphism.
+syntax:- 
+    class A{
+    // 
+    }
+    class B{
+    // 
+    }
+    class exmple{
+        public static void main(Strign args[]){
+            A Z; 
+            z = new A();
+            z = new b();
+        }
+    }
+
+
+    
+    //program:-  write a program to compute interest amount of bank SBI - 4.5% ,CB - 4.0% , PNB - 4.7%
+
+*/
