@@ -1,7 +1,4 @@
 // write a program to perform addition and subtraction of two number using polymorphism in java.
-
-package F_OOP.Polymorphism;
-
 import java.util.Scanner;
 public class add_sub {
     void add(int a, int b){

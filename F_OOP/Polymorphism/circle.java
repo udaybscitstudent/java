@@ -1,7 +1,5 @@
 // write a program to compute area of circle using compile time polymorphism.
 
-package F_OOP.Polymorphism;
-
 import java.util.Scanner;
 public class circle {
     int area(int r){
